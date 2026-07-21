@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sadra</h1>
+<h1 align="center">Hi , I'm Sadra</h1>
 <h3 align="center">Computer Engineering Student | Building things from scratch, end to end</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data Science;Building+projects+from+scratch;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=AI+and+Data+Scientist;DataBase+Assistant" alt="Typing SVG" />
 </p>
 
 ---
 
-### About Me
+### 🚀 About Me
 
 - Computer Engineering student, currently diving into **Operating Systems, Networking, Machine Learning, and Data Mining**
 - I like building complete implementations from scratch rather than relying on pre-built frameworks
