@@ -1,19 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sadra</h1>
-<h3 align="center">Computer Engineering Student | Building things from scratch, end to end</h3>
+<h1 align="center">Hi , I'm Sadra</h1>
+<h3 align="center">Computer Engineering Student | Shahid Beheshti University</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=AI+and+Data+Scientist;DataBase+Assistant" alt="Typing SVG" />
 </p>
-
----
-
-###  About Me
-
--  Computer Engineering student, currently diving into **Operating Systems, Networking, Machine Learning, and Data Mining**
--  I like building complete implementations from scratch rather than relying on pre-built frameworks
--  Currently working on **NeuroSSAFE**, a graph-based recommender system evaluation pipeline
--  I write technical reports in both English and Persian (XePersian / RTL typesetting)
--  Ask me about ML pipelines, custom network protocols, or LaTeX document automation
 
 ---
 
